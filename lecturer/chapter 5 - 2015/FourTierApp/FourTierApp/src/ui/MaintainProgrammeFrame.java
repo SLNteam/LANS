@@ -21,7 +21,7 @@ public class MaintainProgrammeFrame extends JFrame {
         progControl = new MaintainProgrammeControl();
         
         JPanel jpCenter = new JPanel(new GridLayout(3, 2));
-        jpCenter.add(new JLabel("Programme Code"));
+        jpCenter.add(new JLabel("Programme Codecbgcbgcb"));
         jpCenter.add(jtfCode);
         jpCenter.add(new JLabel("Programme Name"));
         jpCenter.add(jtfName);
